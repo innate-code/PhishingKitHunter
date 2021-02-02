@@ -26,3 +26,5 @@ python PhishingKitHunter.py -i logs.log -o report.csv -c conf/defaults.conf
 cat  report.csv
 
 Собюдайте безопасность в сети 
+
+АВТОР - t4d(https://github.com/t4d)
